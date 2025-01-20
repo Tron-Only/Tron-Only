@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tron-Only
-- 👀 I’m interested in Game and Software Development
-- 🌱 I’m currently learning Python and HTML
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Web Development
 - 📱 You can contact me on Discord as trononly.
      
 
