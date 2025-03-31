@@ -1,15 +1,19 @@
-- 👋 Hi, I’m @Tron-Only
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
-- 📱 You can contact me on Discord as trononly.
-     
-
-~ Bye Bisou Bisou 😙
-  
-   TronOnly
+# 💫 About Me:
+👋 Hi, I’m Tron<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Web Development<br>📱 You can contact me on Discord as trononly.<br>
 
 
-<!---
-Tron-Only/Tron-Only is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tron.only) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TronOnly) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tron-Only&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tron-Only&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tron-Only&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Tron-Only&icon=2&color=2)](https://visitcount.itsvg.in)
